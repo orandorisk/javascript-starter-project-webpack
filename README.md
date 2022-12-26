@@ -1,7 +1,30 @@
-#Starter Project Javascript With Webpack
+# Starter Project Javascript With Webpack
 This is my stater project to make app with javascript
 
-#To Use 
-1. git clone https://github.com/orandorisk/javascript-starter-project-webpack.git
-2. npm install
-3. npm run start-dev
+# To Use 
+
+## Clone
+```
+git clone https://github.com/orandorisk/javascript-starter-project-webpack.git
+bash
+
+```
+## Go To Project
+```
+bash
+cd javascript-starter-project-webpack
+```
+
+## Install
+```
+bash
+npm install
+
+```
+
+## Start The Project
+```
+bash
+npm run start-dev
+
+```
