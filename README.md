@@ -11,20 +11,17 @@ bash
 ```
 ## Go To Project
 ```
-bash
 cd javascript-starter-project-webpack
 ```
 
 ## Install
 ```
-bash
 npm install
 
 ```
 
 ## Start The Project
 ```
-bash
 npm run start-dev
 
 ```
